@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>demo/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>219</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1155</ColumnWidth1><ColumnWidth2>308</ColumnWidth2><ColumnWidth3>77</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1541</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20571-15605</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>demo</ExpandedNode><ExpandedNode>demo/Output</ExpandedNode><ExpandedNode>demo/app</ExpandedNode><ExpandedNode>demo/basicrf</ExpandedNode><ExpandedNode>demo/board</ExpandedNode><ExpandedNode>demo/common</ExpandedNode><ExpandedNode>demo/mylib</ExpandedNode><ExpandedNode>demo/sensor_drv</ExpandedNode><ExpandedNode>demo/utils</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-21351-9670</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-20093-24172</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\board\hal_led.c</Filename><XPos>0</XPos><YPos>13</YPos><SelStart>841</SelStart><SelEnd>841</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\board\hal_board.c</Filename><XPos>0</XPos><YPos>7</YPos><SelStart>192</SelStart><SelEnd>192</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\normal_point.c</Filename><XPos>0</XPos><YPos>74</YPos><SelStart>1637</SelStart><SelEnd>1637</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_uart.c</Filename><XPos>0</XPos><YPos>113</YPos><SelStart>2742</SelStart><SelEnd>2742</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_uart1.c</Filename><XPos>0</XPos><YPos>20</YPos><SelStart>1173</SelStart><SelEnd>1173</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\mylib\UART_PRINT.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>445</SelStart><SelEnd>445</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\clound_connecting.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>25</SelStart><SelEnd>25</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>609</SelStart><SelEnd>625</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_defs.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>610</SelStart><SelEnd>615</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\mylib\TIMER.c</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>205</SelStart><SelEnd>205</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_mcu.c</Filename><XPos>0</XPos><YPos>59</YPos><SelStart>2227</SelStart><SelEnd>2227</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_clock.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>544</SelStart><SelEnd>544</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_clock.c</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>1115</SelStart><SelEnd>1115</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_cc8051.h</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart_esp8266.c</Filename><XPos>0</XPos><YPos>258</YPos><SelStart>1095</SelStart><SelEnd>1095</SelEnd></Tab><ActiveTab>14</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_timer_32k.c</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>3804</SelStart><SelEnd>3804</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\huiju.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1742</SelStart><SelEnd>1742</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05f00fb0><key>iaridepm.enu1</key></Toolbar-05f00fb0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>588</Bottom><Right>310</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>3</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>3841</sizeHorzCY><sizeVertCX>203125</sizeVertCX><sizeVertCY>755442</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>148</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>150</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>192061</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>5122</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
